@@ -1,7 +1,7 @@
 import instaloader
 
 # Function to retrieve details of followers for a given Instagram username
-def get_followers_details(username):
+def get_followers_details(username):maneespamm
     # Create an instance of Instaloader
     L = instaloader.Instaloader()
     # Retrieve profile information for the given username
